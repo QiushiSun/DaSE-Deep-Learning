@@ -11,4 +11,5 @@ Labs:
 4. Cifar-10 Classification（Cifar-10图像分类）
 5. Name-Country Prediction（人名国籍识别）
 6. Dimensionality Reduction（降维）
+7. GMM & Kmeans 
 
