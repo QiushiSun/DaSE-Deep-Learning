@@ -6,10 +6,20 @@
 Labs:
 
 1. Linear Regression（线性回归）
+
 2. Linear Regression+Regularization（线性回归+正则化项）
+
 3. Simple Neural Net（简单实现神经网络）
+
 4. Cifar-10 Classification（Cifar-10图像分类）
+
 5. Name-Country Prediction（人名国籍识别）
+
 6. Dimensionality Reduction（降维）
+
 7. GMM & Kmeans 
+
+   
+
+Final Project 请见 [PUBG-Finish-Placement-Prediction](https://github.com/QiushiSun/PUBG-Finish-Placement-Prediction)
 
